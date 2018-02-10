@@ -9,7 +9,7 @@ and execution of a neural network
 License: MIT
 Encoding: UTF-8
 LazyData: true
-Suggests: knitr,
+Imports: knitr,
     rmarkdown,
     testthat
 VignetteBuilder: knitr
