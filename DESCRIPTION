@@ -2,10 +2,11 @@ Package: DL.RFunctions
 Type: Package
 Title: Deep Learning R Functions
 Version: 0.1.0
-Author: Zübeyir OFLAZ
-Maintainer: zubeyir.oflaz@gmail.com
+Authors@R: c(person("Zubeyir", "OFLAZ", 
+                    email = "zubeyir.oflaz@gmail.com",
+                    role = c("aut", "cre")))
 Description: Deep Learning R Functions provide some of the helper functions for R that are used for the initialization
-and execution of a neural network
+             and execution of a neural network
 License: MIT
 Encoding: UTF-8
 LazyData: true
@@ -13,3 +14,4 @@ Imports: knitr,
     rmarkdown,
     testthat
 VignetteBuilder: knitr
+RoxygenNote: 6.0.1
