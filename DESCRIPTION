@@ -1,11 +1,15 @@
 Package: DL.RFunctions
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Deep Learning R Functions
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Zübeyir OFLAZ
+Maintainer: zubeyir.oflaz@gmail.com
+Description: Deep Learning R Functions provide some of the helper functions for R that are used for the initialization
+and execution of a neural network
+License: MIT
 Encoding: UTF-8
 LazyData: true
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
