@@ -26,3 +26,5 @@ I intend on starting with writing very foundational functions as a submission fo
 
 Travis Badge
 ------------
+
+[![Build Status](https://travis-ci.org/LapsedPacifistROU/DL.RFunctions.svg?branch=master)](https://travis-ci.org/LapsedPacifistROU/DL.RFunctions)
